@@ -1,0 +1,523 @@
+Date,Temp low,Temp high,Summary,Precipitation probability ,Precipitation type,Precipitation accumulation,Icon,Image,Image URL
+1/18/2024,19.76,31.82,Cloudy. Cold.,2,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+1/19/2024,19.4,29.48,Light snow late. Overcast. Cold.,43,snow,0.45,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+1/20/2024,14.54,20.3,Light snow late. Cloudy. Cold.,38,snow,0.59,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+1/21/2024,13.82,24.98,Sunny. Cold.,5,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+1/22/2024,15.08,37.22,Light snow late. Afternoon clouds. Chilly.,22,snow,0.24,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+1/23/2024,30.92,38.12,Light snow late. Overcast. Chilly.,60,snow,0.24,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+1/24/2024,31.64,39.02,Snow changing to rain. Overcast. Chilly.,87,sleet,1,sleet,13d.png,https://openweathermap.org/img/wn/13d.png
+1/25/2024,38.84,48.02,Sprinkles early. Overcast. Cool.,91,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+1/26/2024,37.58,41.9,Rain. Overcast. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+1/27/2024,34.7,39.74,Sprinkles early. Overcast. Chilly.,45,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+1/28/2024,34.7,37.76,Light mixture of precip. Overcast. Chilly.,99,sleet,0.18,sleet,13d.png,https://openweathermap.org/img/wn/13d.png
+1/29/2024,30.2,37.76,Snow changing to rain. Overcast. Chilly.,90,sleet,1.78,sleet,13d.png,https://openweathermap.org/img/wn/13d.png
+1/30/2024,21.2,32.72,Light snow early. Overcast. Cold.,45,snow,0.37,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+1/31/2024,20.84,36.14,Overcast. Chilly.,2,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+2/1/2024,28.94,41.9,Overcast. Chilly.,3,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+2/2/2024,32.72,39.92,Light icy mix late. Cloudy. Chilly.,50,sleet,0.14,sleet,13d.png,https://openweathermap.org/img/wn/13d.png
+2/3/2024,26.78,35.96,Broken clouds. Chilly.,42,rain,0.12,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+2/4/2024,24.08,38.12,Sunny. Chilly.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+2/5/2024,25.52,39.38,Afternoon clouds. Chilly.,1,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+2/6/2024,26.6,36.5,Mostly cloudy. Chilly.,15,rain,0.04,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+2/7/2024,30.02,38.66,Cloudy. Chilly.,5,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+2/8/2024,26.42,42.08,Broken clouds. Chilly.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+2/9/2024,31.1,46.22,Sprinkles. Mostly cloudy. Cool.,23,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+2/10/2024,36.5,56.3,Cloudy. Cool.,19,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+2/11/2024,37.22,49.28,Cloudy. Cool.,4,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+2/12/2024,32.54,47.3,Cloudy. Cool.,0,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+2/13/2024,29.3,38.48,Rain changing to snow. Overcast. Chilly.,98,sleet,3,sleet,13d.png,https://openweathermap.org/img/wn/13d.png
+2/14/2024,24.98,32.54,Sunny. Cold.,1,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+2/15/2024,23,38.12,Light snow late. Afternoon clouds. Chilly.,85,snow,0.87,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+2/16/2024,28.22,38.12,Broken clouds. Chilly.,55,rain,0.13,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+2/17/2024,24.62,36.5,Snow changing to rain. Cloudy. Chilly.,45,sleet,0.49,sleet,13d.png,https://openweathermap.org/img/wn/13d.png
+2/18/2024,21.56,37.22,Partly cloudy. Chilly.,2,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+2/19/2024,24.44,37.94,Sunny. Chilly.,2,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+2/20/2024,20.3,34.34,Sunny. Chilly.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+2/26/2024,28.76,51.26,Breaks of sun late. Cool.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+2/27/2024,32,52.34,Sprinkles late. Mostly cloudy. Cool.,60,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+2/25/2024,16.88,37.58,Sunny. Chilly.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+2/24/2024,20.3,38.3,Morning clouds. Chilly.,21,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+2/23/2024,34.88,43.16,Light rain. Overcast. Cool.,84,rain,0.02,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+2/22/2024,23.72,42.62,Light snow late. Increasing cloudiness. Cool.,46,snow,0.07,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+2/21/2024,22.28,37.76,Increasing cloudiness. Chilly.,2,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+2/28/2024,42.44,54.68,Rain. Overcast. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+2/29/2024,26.06,40.1,Partly cloudy. Chilly.,88,rain,0.26,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+3/1/2024,22.64,43.16,Scattered clouds. Cool.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+3/2/2024,33.8,48.92,Rain. Overcast. Cool.,93,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/3/2024,44.42,50.9,Rain. Overcast. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/4/2024,39.92,47.3,Sprinkles. Overcast. Cool.,40,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/5/2024,40.28,47.12,Rain. Overcast. Cool.,93,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/6/2024,40.1,54.32,Rain late. Overcast. Cool.,87,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/7/2024,38.66,44.78,Heavy rain. Overcast. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/8/2024,33.44,47.12,Partly cloudy. Cool.,5,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+3/9/2024,32.18,43.34,Sprinkles late. Overcast. Cool.,64,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/10/2024,37.04,52.88,Heavy rain. Overcast. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/11/2024,32.54,42.8,Light snow early. Cloudy. Cool.,38,snow,0.16,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+3/12/2024,37.04,52.16,Sunny. Cool.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+3/13/2024,36.97,54.95,Partly sunny. Cool.,3,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+3/14/2024,38.48,55.04,Overcast. Cool.,51,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+3/15/2024,39.02,46.94,Sprinkles. Overcast. Cool.,76,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/16/2024,36.32,52.16,Sprinkles early. Mostly cloudy. Cool.,16,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/17/2024,41.36,54.86,Sprinkles. Cloudy. Cool.,59,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/18/2024,37.04,47.66,Broken clouds. Cool.,2,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+3/26/2024,36.5,40.28,Sprinkles. Overcast. Chilly.,49,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/27/2024,39.02,51.26,Sprinkles. Overcast. Cool.,46,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/28/2024,43.34,49.1,Heavy rain. Overcast. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/29/2024,39.74,49.46,Rain. Overcast. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/30/2024,35.42,53.42,Mostly sunny. Cool.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+3/31/2024,38.84,55.4,Breaks of sun late. Cool.,5,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+4/1/2024,35.42,54.32,Overcast. Cool.,1,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+4/2/2024,39.74,47.66,Rain late. Overcast. Cool.,72,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/3/2024,37.4,43.88,Rain. Overcast. Chilly.,94,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/4/2024,35.24,40.28,Heavy rain. Overcast. Chilly.,99,rain,0.08,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/5/2024,34.52,46.94,Sprinkles late. Overcast. Cool.,38,rain,0.01,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/6/2024,35.06,42.8,Rain showers. Overcast. Cool.,66,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/7/2024,35.42,45.5,Sprinkles. Cloudy. Cool.,45,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/8/2024,37.04,62.06,Afternoon clouds. Cool.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+4/9/2024,41,54.32,Cloudy. Cool.,0,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+4/10/2024,40.46,57.56,Sprinkles late. Overcast. Cool.,73,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/11/2024,45.32,55.04,Sprinkles. Overcast. Cool.,62,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/12/2024,48.92,59.9,Rain showers. Overcast. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/13/2024,45.68,54.14,Drizzle. Cloudy. Cool.,52,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/14/2024,44.24,55.4,Showers late. Overcast. Cool.,62,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/15/2024,50,66.56,Scattered clouds. Mild.,23,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+4/16/2024,46.4,64.58,Sunny. Mild.,1,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+4/17/2024,42.98,56.84,Scattered clouds. Cool.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+4/18/2024,42.62,48.56,Sprinkles. Overcast. Cool.,47,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/19/2024,43.16,53.42,Sprinkles early. Overcast. Cool.,41,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/20/2024,46.22,57.74,Rain. Cloudy. Cool.,88,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/21/2024,39.56,55.94,Afternoon clouds. Cool.,2,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+4/22/2024,39.92,55.94,Sunny. Cool.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+4/23/2024,37.58,59.36,Mostly sunny. Cool.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+4/24/2024,38.84,61.16,Sprinkles. Mostly cloudy. Cool.,61,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/25/2024,32.72,52.88,Sunny. Cool.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+4/26/2024,37.22,53.96,Sunny. Cool.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+4/27/2024,39.74,62.78,Afternoon clouds. Refreshingly cool.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+4/28/2024,45.32,66.56,Sprinkles. Overcast. Mild.,58,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/29/2024,53.96,65.66,Cloudy. Mild.,24,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+4/30/2024,45.86,53.78,Sprinkles. Overcast. Cool.,49,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+5/1/2024,46.04,52.7,Light rain early. Overcast. Cool.,63,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+5/2/2024,47.3,64.4,Sprinkles. Mostly cloudy. Mild.,40,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+5/3/2024,44.06,56.12,Sprinkles early. Overcast. Cool.,23,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+5/4/2024,43.52,54.5,Overcast. Cool.,1,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+5/5/2024,45.68,53.78,Light rain late. Overcast. Cool.,84,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+5/6/2024,48.74,67.1,Passing showers. Overcast. Mild.,89,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+5/7/2024,50,68,Partly cloudy. Mild.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+5/8/2024,50.54,62.96,Rain showers. Overcast. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+5/9/2024,48.92,58.82,Sprinkles late. Cloudy. Cool.,59,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+5/10/2024,46.22,54.32,Sprinkles early. Overcast. Cool.,23,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+5/11/2024,42.62,54.5,Sprinkles late. Broken clouds. Cool.,21,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+5/12/2024,41.54,58.28,Overcast. Cool.,5,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+5/13/2024,48.38,63.14,Cloudy. Mild.,41,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+5/14/2024,51.26,73.94,Decreasing cloudiness. Mild.,3,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+5/15/2024,58.1,69.62,Showers late. Overcast. Mild.,50,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+5/16/2024,53.06,58.28,Heavy rain. Overcast. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+5/17/2024,51.08,63.68,Mostly cloudy. Cool.,2,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+5/18/2024,52.16,55.04,Sprinkles late. Overcast. Cool.,24,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+5/19/2024,51.8,55.94,Sprinkles. Overcast. Cool.,41,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+5/20/2024,51.8,61.88,Cloudy. Mild.,14,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+5/21/2024,52.7,80.78,Cloudy. Warm.,15,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+5/22/2024,59,83.84,Sunny. Pleasantly warm.,21,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+5/23/2024,63.86,80.42,Thunderstorms. Cloudy. Warm.,50,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+5/24/2024,59.54,81.32,Partly cloudy. Pleasantly warm.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+5/25/2024,56.84,73.58,Afternoon clouds. Mild.,3,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+5/26/2024,59.54,74.84,Passing showers. Breaks of sun late. Mild.,64,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+5/27/2024,59.72,69.44,Passing showers. Overcast. Mild.,68,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+5/28/2024,64.76,80.42,Showers early. Breaks of sun late. Warm.,87,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+5/29/2024,60.62,74.12,Showers late. Afternoon clouds. Mild.,20,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+5/30/2024,53.42,62.24,Showery. Overcast. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+5/31/2024,53.06,71.06,Broken clouds. Mild.,1,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+6/1/2024,55.22,73.58,Mostly sunny. Mild.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+6/2/2024,55.04,80.78,Increasing cloudiness. Mild.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+6/3/2024,59.72,75.74,Mostly cloudy. Cool.,2,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+6/4/2024,55.76,68.9,Mostly cloudy. Cool.,5,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+6/5/2024,58.64,83.3,Showers early. Breaks of sun late. Pleasantly warm.,58,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+6/6/2024,63.86,70.88,Passing showers. Overcast. Cool.,73,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+6/7/2024,62.42,77.9,Passing showers. Breaks of sun late. Mild.,62,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+6/8/2024,59.72,73.22,Scattered clouds. Mild.,50,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+6/9/2024,61.34,70.34,Passing showers. Mostly cloudy. Cool.,80,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+6/10/2024,58.46,75.38,Partly cloudy. Mild.,5,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+6/11/2024,57.02,72.14,Increasing cloudiness. Cool.,5,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+6/12/2024,57.38,73.22,Showers late. Cloudy. Cool.,22,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+6/13/2024,59.9,82.4,Partly cloudy. Mild.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+6/14/2024,65.3,81.68,Showers late. Afternoon clouds. Mild.,57,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+6/15/2024,60.8,73.4,Passing showers. Morning clouds. Cool.,71,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+6/16/2024,55.76,69.62,Afternoon clouds. Cool.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+6/17/2024,58.82,79.34,Decreasing cloudiness. Mild.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+6/18/2024,65.84,88.52,Showers late. Cloudy. Warm.,23,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+6/19/2024,69.8,92.48,Showers late. Overcast. Warm.,43,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+6/20/2024,71.96,93.2,Isolated tstorms late. Overcast. Warm.,61,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+6/21/2024,66.74,80.78,Thunderstorms. Cloudy. Mild.,96,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+6/22/2024,63.5,71.78,A few tstorms. Overcast. Cool.,72,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+6/23/2024,63.14,85.28,Thundershowers. Overcast. Warm.,75,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+6/24/2024,65.84,80.24,Isolated tstorms. Cloudy. Mild.,58,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+6/25/2024,64.04,85.82,Partly cloudy. Pleasantly warm.,19,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+6/26/2024,68.9,88.34,Passing showers. Cloudy. Warm.,61,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+6/27/2024,65.3,82.22,Rain showers. Cloudy. Mild.,87,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+6/28/2024,62.06,73.94,Afternoon clouds. Mild.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+6/29/2024,62.42,75.38,Showers late. Overcast. Mild.,40,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+6/30/2024,69.98,85.46,Thunderstorms. Overcast. Warm.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/1/2024,66.2,75.56,Showers late. Broken clouds. Cool.,48,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/2/2024,62.6,77.18,Increasing cloudiness. Pleasantly warm.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+7/3/2024,60.8,80.6,Cloudy. Pleasantly warm.,0,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+7/4/2024,63.86,84.2,Showers late. Cloudy. Warm.,52,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/5/2024,68.9,82.4,Thunderstorms. Overcast. Warm.,74,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/6/2024,72.68,80.42,Thundershowers. Overcast. Mild.,73,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/7/2024,72.14,84.74,Isolated tstorms late. Overcast. Warm.,46,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/8/2024,69.44,82.76,Showers late. Scattered clouds. Warm.,16,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/9/2024,71.96,89.42,Isolated tstorms late. Cloudy. Warm.,48,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/10/2024,73.76,89.42,Thundershowers. Overcast. Warm.,43,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/11/2024,73.22,86.18,Thundershowers. Morning clouds. Warm.,58,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/12/2024,69.44,83.48,Passing showers. Mostly sunny. Warm.,49,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/13/2024,71.78,82.4,Isolated tstorms. Mostly cloudy. Warm.,63,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/14/2024,68.54,83.66,Mostly sunny. Warm.,20,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+7/15/2024,70.88,89.96,Isolated tstorms late. Mostly cloudy. Warm.,10,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/16/2024,73.76,91.94,Showers late. Broken clouds. Warm.,20,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/17/2024,71.96,89.06,Tstorms late. Broken clouds. Warm.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/18/2024,71.42,86.54,Tstorms early. Overcast. Warm.,91,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/19/2024,66.2,77.9,Mostly sunny. Mild.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+7/20/2024,65.84,84.38,Cloudy. Warm.,2,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+7/21/2024,69.44,83.3,Mostly cloudy. Warm.,21,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+7/22/2024,61.7,78.8,Showers late. Overcast. Mild.,40,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/23/2024,67.28,75.2,Passing showers. Overcast. Mild.,68,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/24/2024,65.84,70.7,Passing showers. Overcast. Cool.,73,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/25/2024,66.92,82.94,Thundershowers. Overcast. Mild.,24,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/26/2024,65.66,83.48,Mostly sunny. Pleasantly warm.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+7/27/2024,63.86,82.76,Sunny. Mild.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+7/28/2024,61.52,78.44,Showers late. Afternoon clouds. Mild.,49,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/29/2024,65.66,71.78,Passing showers. Overcast. Cool.,84,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/30/2024,66.92,86.72,Isolated tstorms. Mostly cloudy. Warm.,59,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+7/31/2024,69.62,80.6,Thundershowers. Mostly cloudy. Mild.,66,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+8/1/2024,71.78,89.78,Broken clouds. Warm.,3,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+8/2/2024,69.62,84.2,Scattered tstorms late. Mostly cloudy. Warm.,63,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+8/3/2024,71.96,88.16,Thundershowers. Cloudy. Warm.,75,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+8/4/2024,71.06,83.48,Isolated tstorms. Overcast. Warm.,81,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+8/5/2024,69.62,84.38,Isolated tstorms late. Increasing cloudiness. Warm.,24,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+8/6/2024,64.04,76.82,Rain showers. Overcast. Cool.,82,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+8/7/2024,59.18,68.9,Heavy rain. Cloudy. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+8/8/2024,58.46,72.14,Overcast. Cool.,17,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+8/9/2024,64.4,81.68,Thundershowers. Overcast. Mild.,68,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+8/10/2024,70.7,84.2,Isolated tstorms. Morning clouds. Warm.,82,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+8/11/2024,66.02,79.88,Broken clouds. Mild.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+8/12/2024,64.76,76.82,Afternoon clouds. Mild.,4,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+8/13/2024,62.78,79.7,Increasing cloudiness. Mild.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+8/14/2024,63.86,79.52,Mostly sunny. Mild.,2,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+8/15/2024,62.78,80.06,Isolated tstorms. Cloudy. Mild.,88,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+8/16/2024,64.76,73.94,Broken clouds. Mild.,23,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+8/17/2024,63.68,74.3,Mostly cloudy. Mild.,1,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+8/18/2024,66.2,72.86,Passing showers. Cloudy. Mild.,44,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+8/19/2024,66.74,79.88,A few tstorms. Mostly cloudy. Mild.,82,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+8/20/2024,60.98,71.42,Cloudy. Cool.,53,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+8/21/2024,57.2,71.96,Showers late. Afternoon clouds. Cool.,38,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+8/22/2024,57.38,74.48,Mostly sunny. Mild.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+8/23/2024,60.26,79.34,Sunny. Mild.,1,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+8/24/2024,61.52,82.4,Early fog followed by sunny skies. Mild.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+8/25/2024,61.52,79.16,Afternoon clouds. Mild.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+8/26/2024,62.6,75.56,Isolated tstorms. Broken clouds. Mild.,63,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+8/27/2024,62.6,78.98,Scattered clouds. Mild.,22,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+8/28/2024,65.12,85.28,Showers early. Morning clouds. Warm.,39,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+8/29/2024,58.46,70.88,Broken clouds. Cool.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+8/30/2024,53.96,71.06,Sunny. Cool.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+8/31/2024,60.8,78.8,Broken clouds. Mild.,22,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+9/1/2024,68.9,80.78,Thundershowers. Cloudy. Mild.,63,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+9/2/2024,60.8,75.74,Scattered clouds. Mild.,5,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+9/3/2024,54.86,73.22,Sunny. Refreshingly cool.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+9/4/2024,53.6,74.84,Sunny. Mild.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+9/5/2024,57.56,72.32,Sunny. Cool.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+9/6/2024,59.54,72.5,Passing showers. Broken clouds. Cool.,18,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+9/7/2024,62.42,73.94,Passing showers. Overcast. Mild.,72,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+9/8/2024,57.56,69.98,Sunny. Cool.,50,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+9/9/2024,57.38,74.84,Afternoon clouds. Mild.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+9/10/2024,58.64,75.2,Sunny. Mild.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+9/11/2024,54.32,73.22,Sunny. Mild.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+9/12/2024,56.66,77.72,Sunny. Pleasantly warm.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+9/13/2024,59.9,80.78,Showers late. Scattered clouds. Warm.,20,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+9/14/2024,60.44,76.28,Scattered clouds. Mild.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+9/15/2024,56.84,72.68,Scattered clouds. Cool.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+9/16/2024,54.32,75.74,Increasing cloudiness. Mild.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+9/17/2024,55.4,78.08,Cloudy. Pleasantly warm.,0,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+9/18/2024,57.74,73.22,Overcast. Mild.,17,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+9/19/2024,62.24,69.8,Passing showers. Overcast. Cool.,49,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+9/20/2024,60.62,67.28,Sprinkles. Overcast. Cool.,63,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+9/21/2024,57.56,63.68,Rain. Overcast. Quite cool.,88,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+9/22/2024,58.28,65.12,Passing showers. Breaks of sun late. Cool.,45,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+9/23/2024,57.56,65.12,Sprinkles. Cloudy. Cool.,39,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+9/24/2024,55.76,64.76,Drizzle. Mostly cloudy. Cool.,21,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+9/25/2024,57.92,64.4,Sprinkles. Overcast. Cool.,44,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+9/26/2024,59.72,68.54,Rain showers. Overcast. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+9/27/2024,58.64,74.48,Sprinkles early. Overcast. Mild.,89,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+9/28/2024,58.46,68.54,Cloudy. Cool.,1,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+9/29/2024,55.76,65.66,Cloudy. Cool.,2,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+9/30/2024,54.32,68.9,Cloudy. Cool.,3,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+10/1/2024,55.76,65.12,Sprinkles late. Overcast. Mild.,24,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+10/2/2024,55.04,64.04,Sprinkles. Cloudy. Mild.,24,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+10/3/2024,52.16,70.7,Broken clouds. Mild.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+10/4/2024,55.04,72.14,Overcast. Mild.,0,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+10/5/2024,56.12,70.52,Sprinkles early. Broken clouds. Mild.,15,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+10/6/2024,50.54,65.12,Increasing cloudiness. Mild.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+10/7/2024,53.6,62.42,Rain showers. Cloudy. Cool.,86,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+10/8/2024,51.44,65.48,Scattered clouds. Mild.,3,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+10/9/2024,48.74,64.4,Broken clouds. Mild.,3,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+10/10/2024,47.48,59.54,Scattered clouds. Cool.,3,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+10/11/2024,44.78,66.38,Sunny. Mild.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+10/12/2024,49.1,66.2,Scattered clouds. Mild.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+10/13/2024,41.9,54.14,Sprinkles. Increasing cloudiness. Cool.,24,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+10/14/2024,44.06,61.88,Sprinkles. Cloudy. Cool.,59,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+10/15/2024,42.8,55.22,Broken clouds. Cool.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+10/16/2024,42.62,53.96,Scattered clouds. Cool.,1,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+10/17/2024,37.76,56.12,Scattered clouds. Cool.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+10/18/2024,43.88,60.8,Sunny. Cool.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+10/19/2024,39.38,68.9,Sunny. Mild.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+10/20/2024,45.5,72.5,Sunny. Mild.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+10/21/2024,50.54,76.64,Scattered clouds. Pleasantly warm.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+10/22/2024,52.88,67.64,Sunny. Mild.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+10/23/2024,53.06,74.66,Partly cloudy. Mild.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+10/24/2024,51.26,68.18,Mostly cloudy. Mild.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+10/25/2024,44.06,60.8,Scattered clouds. Cool.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+10/26/2024,47.12,64.94,Scattered clouds. Mild.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+10/27/2024,39.92,55.58,Sunny. Cool.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+10/28/2024,38.3,51.26,Scattered clouds. Cool.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+10/29/2024,39.56,55.4,Sprinkles late. Overcast. Cool.,42,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+10/30/2024,49.82,68.72,Light rain early. Overcast. Mild.,86,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+10/31/2024,55.4,77,Cloudy. Mild.,0,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+11/1/2024,53.6,77.18,Morning clouds. Mild.,4,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+11/2/2024,42.26,57.02,Morning clouds. Cool.,2,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+11/3/2024,35.06,50.54,Partly cloudy. Cool.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+11/4/2024,30.74,53.78,Cloudy. Cool.,1,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+11/5/2024,48.56,71.06,Mostly cloudy. Mild.,1,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+11/6/2024,61.34,75.56,Broken clouds. Mild.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+11/7/2024,47.66,69.8,Morning clouds. Mild.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+11/8/2024,44.96,64.04,Sprinkles late. Sunny. Mild.,14,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+11/9/2024,35.78,51.08,Sunny. Cool.,5,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+11/10/2024,32.36,59,Sprinkles late. Afternoon clouds. Refreshingly cool.,59,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+11/11/2024,50.36,66.92,Sprinkles early. Morning clouds. Mild.,69,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+11/12/2024,35.24,52.52,Mostly sunny. Cool.,4,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+11/13/2024,32.18,45.86,Sunny. Cool.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+11/14/2024,32.18,46.4,Afternoon clouds. Cool.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+11/15/2024,29.48,55.76,Partly cloudy. Cool.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+11/16/2024,40.28,56.84,Partly cloudy. Refreshingly cool.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+11/17/2024,40.64,59,Increasing cloudiness. Refreshingly cool.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+11/18/2024,39.38,60.8,Morning clouds. Cool.,2,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+11/19/2024,41.18,56.48,Increasing cloudiness. Cool.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+11/20/2024,36.32,54.14,Partly cloudy. Cool.,3,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+11/21/2024,46.58,49.1,Heavy rain. Overcast. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+11/22/2024,42.62,51.8,Rain showers. Cloudy. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+11/23/2024,42.26,46.94,Rain. Overcast. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+11/24/2024,38.12,49.46,Mostly sunny. Cool.,5,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+11/25/2024,32.72,51.26,Mostly sunny. Cool.,4,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+11/26/2024,31.1,48.02,Rain. Broken clouds. Cool.,80,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+11/27/2024,33.44,48.56,Cloudy. Cool.,0,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+11/28/2024,35.6,48.02,Rain. Overcast. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+11/29/2024,33.62,45.5,Scattered clouds. Cool.,22,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+11/30/2024,30.38,41,Scattered clouds. Chilly.,40,rain,0.08,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+12/1/2024,26.78,38.66,Scattered clouds. Chilly.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+12/2/2024,24.62,39.2,Sunny. Chilly.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+12/3/2024,23.72,38.84,Scattered clouds. Chilly.,2,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+12/5/2024,33.8,41.72,Rain. Decreasing cloudiness. Chilly.,98,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+12/6/2024,25.52,35.06,Afternoon clouds. Cold.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+12/7/2024,25.52,38.66,Afternoon clouds. Chilly.,5,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+12/8/2024,32,46.4,Light icy mix early. Overcast. Cool.,72,sleet,0.31,sleet,13d.png,https://openweathermap.org/img/wn/13d.png
+12/9/2024,29.84,44.24,Rain late. Increasing cloudiness. Cool.,90,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+12/10/2024,39.92,45.86,Sprinkles. Overcast. Chilly.,78,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+12/11/2024,38.48,62.06,Showery. Overcast. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+12/12/2024,27.32,51.26,Mostly sunny. Chilly.,99,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+12/13/2024,24.08,33.8,Sunny. Chilly.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+12/14/2024,20.3,33.44,Sunny. Chilly.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+12/15/2024,17.24,35.78,Increasing cloudiness. Chilly.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+12/16/2024,30.74,44.06,Snow changing to rain. Overcast. Cool.,38,sleet,0.04,sleet,13d.png,https://openweathermap.org/img/wn/13d.png
+12/17/2024,41.72,56.12,Light rain early. Cloudy. Cool.,86,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+12/18/2024,36.5,48.74,Rain late. Increasing cloudiness. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+12/19/2024,30.92,44.6,Sprinkles early. Mostly cloudy. Cool.,97,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+12/20/2024,30.74,39.2,Light rain. Overcast. Chilly.,74,rain,0.96,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+12/21/2024,17.96,32,Mostly cloudy. Cold.,72,rain,0.34,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+12/22/2024,12.2,21.2,Sunny. Cold.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+12/23/2024,8.06,25.7,Afternoon clouds. Cold.,22,rain,0.06,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+12/24/2024,22.46,35.42,Light snow. Morning clouds. Chilly.,69,snow,0.72,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+12/25/2024,22.28,32.18,Mostly sunny. Cold.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+12/26/2024,19.58,35.42,Morning clouds. Chilly.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+12/27/2024,20.84,36.86,Afternoon clouds. Chilly.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+12/28/2024,30.92,41.54,Light rain. Overcast. Chilly.,61,rain,0.16,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+12/29/2024,38.84,49.82,Sprinkles. Overcast. Cool.,62,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+12/30/2024,42.98,54.32,Rain showers. Morning clouds. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+12/31/2024,39.02,48.92,Increasing cloudiness. Cool.,18,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+1/1/2025,38.84,48.2,Heavy rain. Overcast. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+1/2/2025,31.82,41.18,Breaks of sun late. Chilly.,38,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+1/3/2025,28.94,38.3,Mostly sunny. Chilly.,1,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+1/4/2025,24.62,31.1,Scattered clouds. Cold.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+1/5/2025,21.38,32.54,Mostly cloudy. Cold.,3,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+1/6/2025,17.42,29.3,Cloudy. Cold.,4,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+1/7/2025,15.98,26.96,Scattered clouds. Cold.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+1/8/2025,17.24,27.32,Afternoon clouds. Cold.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+1/9/2025,16.88,27.14,Light snow. Cloudy. Cold.,50,snow,0.67,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+1/10/2025,23.18,36.14,Afternoon clouds. Chilly.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+1/11/2025,25.88,32.18,Light snow. Overcast. Cold.,70,snow,1.67,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+1/12/2025,22.64,34.7,Scattered clouds. Chilly.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+1/13/2025,25.7,41,Broken clouds. Chilly.,2,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+1/14/2025,23.54,34.16,Mostly sunny. Cold.,5,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+1/15/2025,19.76,28.76,Sunny. Cold.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+1/16/2025,18.68,32,Increasing cloudiness. Cold.,1,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+1/17/2025,21.56,35.6,Scattered clouds. Chilly.,21,rain,0.06,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+1/18/2025,27.14,43.52,Light rain late. Overcast. Cool.,80,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+1/19/2025,27.32,38.66,Snow late. Cloudy. Chilly.,99,snow,4.6,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+1/20/2025,15.8,28.4,Light snow early. Partly cloudy. Cold.,96,snow,1.49,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+1/21/2025,13.1,21.56,Increasing cloudiness. Cold.,1,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+1/22/2025,10.04,22.46,Partly cloudy. Cold.,1,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+1/23/2025,14.36,31.28,Decreasing cloudiness. Cold.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+1/24/2025,19.04,31.64,Scattered clouds. Cold.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+1/25/2025,16.7,30.02,Scattered clouds. Cold.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+1/26/2025,24.26,39.2,Breaks of sun late. Chilly.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+1/27/2025,25.16,36.86,Afternoon clouds. Chilly.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+1/28/2025,22.28,37.4,Light icy mix early. Breaks of sun late. Cold.,38,sleet,0.02,sleet,13d.png,https://openweathermap.org/img/wn/13d.png
+1/29/2025,23.36,45.14,Snow changing to rain. Mostly cloudy. Cool.,80,sleet,1.62,sleet,13d.png,https://openweathermap.org/img/wn/13d.png
+1/30/2025,16.88,27.86,Mostly sunny. Cold.,38,rain,0.11,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+1/31/2025,24.98,44.78,Rain. Overcast. Chilly.,94,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+2/1/2025,12.56,35.06,Light snow early. Morning clouds. Cold.,91,snow,1.43,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+2/2/2025,13.1,30.74,Light snow late. Cloudy. Cold.,60,snow,0.3,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+2/3/2025,28.4,42.44,Snow changing to rain. Overcast. Cool.,79,sleet,0.86,sleet,13d.png,https://openweathermap.org/img/wn/13d.png
+2/4/2025,19.04,40.1,Light icy mix early. Broken clouds. Chilly.,21,sleet,0.02,sleet,13d.png,https://openweathermap.org/img/wn/13d.png
+2/5/2025,17.42,27.32,Scattered clouds. Cold.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+2/6/2025,16.7,36.14,Moderate snow. Overcast. Chilly.,93,snow,3.37,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+2/7/2025,23.36,37.22,Partly cloudy. Chilly.,6,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+2/8/2025,22.46,33.98,Light snow late. Cloudy. Chilly.,78,snow,0.67,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+2/9/2025,24.8,33.62,Moderate snow. Cloudy. Chilly.,99,snow,6.14,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+2/10/2025,19.4,33.8,Light snow late. Broken clouds. Chilly.,21,snow,0.12,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+2/11/2025,17.42,35.24,Cloudy. Chilly.,0,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+2/12/2025,20.66,33.8,Light snow late. Cloudy. Chilly.,48,snow,0.47,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+2/13/2025,30.56,40.64,Rain. Cloudy. Chilly.,99,rain,1.74,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+2/14/2025,19.76,31.82,Mostly sunny. Cold.,5,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+2/15/2025,17.24,30.2,Light snow late. Overcast. Cold.,69,snow,1.07,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+2/16/2025,27.14,38.84,Snow changing to rain. Overcast. Chilly.,99,sleet,7.23,sleet,13d.png,https://openweathermap.org/img/wn/13d.png
+2/17/2025,17.24,31.28,Light snow late. Mostly cloudy. Cold.,21,snow,0.17,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+2/18/2025,14.72,24.26,Mostly cloudy. Cold.,17,rain,0.15,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+2/19/2025,12.74,28.4,Afternoon clouds. Cold.,5,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+2/20/2025,10.76,27.32,Light snow late. Overcast. Cold.,23,snow,0.53,snow,13d.png,https://openweathermap.org/img/wn/13d.png
+2/21/2025,18.86,31.64,Partly cloudy. Cold.,5,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+2/22/2025,14.9,34.88,Mostly sunny. Chilly.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+2/23/2025,25.88,39.56,Overcast. Chilly.,5,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+2/24/2025,21.92,41.72,Cloudy. Chilly.,0,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+2/25/2025,35.96,46.94,Sprinkles late. Overcast. Cool.,16,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+2/26/2025,34.34,47.3,Afternoon clouds. Cool.,1,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+2/27/2025,31.82,49.46,Light rain. Overcast. Cool.,86,rain,0.5,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+2/28/2025,32.36,44.42,Broken clouds. Cool.,24,rain,0.08,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+3/1/2025,23.18,52.34,Light rain. Cloudy. Cool.,57,rain,0.08,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/2/2025,15.8,27.86,Sunny. Cold.,1,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+3/3/2025,12.2,31.28,Sunny. Cold.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+3/4/2025,23,47.66,Increasing cloudiness. Cool.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+3/5/2025,40.82,55.04,Sprinkles late. Overcast. Cool.,97,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/6/2025,34.52,55.94,Rain. Overcast. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/7/2025,26.96,42.26,Mostly sunny. Cool.,43,rain,0.12,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+3/8/2025,28.94,40.82,Mostly cloudy. Chilly.,5,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+3/9/2025,26.78,44.78,Afternoon clouds. Cool.,2,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+3/10/2025,34.52,55.22,Morning clouds. Cool.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+3/11/2025,34.88,59.54,Increasing cloudiness. Cool.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+3/12/2025,34.34,48.92,Light icy mix late. Mostly cloudy. Cool.,49,sleet,0.12,sleet,13d.png,https://openweathermap.org/img/wn/13d.png
+3/13/2025,33.44,42.44,Cloudy. Cool.,44,rain,0.16,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+3/14/2025,33.62,46.94,Breaks of sun late. Cool.,1,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+3/15/2025,35.78,54.86,Overcast. Cool.,1,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+3/16/2025,47.48,62.78,Sprinkles. Overcast. Cool.,52,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/17/2025,42.44,57.56,Heavy rain. Overcast. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/18/2025,36.68,50.36,Cloudy. Cool.,54,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+3/19/2025,34.88,49.1,Afternoon clouds. Cool.,1,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+3/20/2025,40.1,53.78,Sprinkles. Overcast. Cool.,41,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/21/2025,38.48,46.22,Rain. Decreasing cloudiness. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/22/2025,35.96,58.46,Mostly cloudy. Refreshingly cool.,5,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+3/23/2025,27.68,44.78,Scattered clouds. Cool.,5,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+3/24/2025,32,42.8,Rain. Overcast. Chilly.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/25/2025,37.76,50,Mostly cloudy. Cool.,5,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+3/26/2025,34.7,49.28,Sprinkles late. Cloudy. Cool.,39,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/27/2025,33.44,49.64,Scattered clouds. Cool.,5,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+3/28/2025,37.58,56.84,Overcast. Refreshingly cool.,16,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+3/29/2025,35.78,46.4,Rain. Overcast. Chilly.,97,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/30/2025,35.6,41.72,Light rain. Overcast. Chilly.,83,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+3/31/2025,40.1,62.6,Sprinkles. Overcast. Cool.,72,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/1/2025,34.16,57.74,Heavy rain early. Broken clouds. Cool.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/2/2025,30.02,41.36,Sprinkles late. Cloudy. Chilly.,65,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/3/2025,37.58,60.8,Light rain. Overcast. Cool.,90,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/4/2025,45.68,60.26,Overcast. Mild.,48,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+4/5/2025,40.1,49.1,Rain. Overcast. Cool.,84,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/6/2025,41.36,51.62,Light rain. Overcast. Cool.,73,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/7/2025,36.32,46.04,Rain. Overcast. Chilly.,92,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/8/2025,29.84,43.52,Sprinkles. Decreasing cloudiness. Cool.,80,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/9/2025,28.58,46.04,Mostly sunny. Cool.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+4/10/2025,30.74,48.56,Sprinkles late. Afternoon clouds. Cool.,40,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/11/2025,34.88,45.32,Light rain. Overcast. Cool.,88,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/12/2025,35.6,40.82,Rain. Overcast. Chilly.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/13/2025,37.76,46.22,Light rain. Overcast. Cool.,57,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/14/2025,40.46,62.6,Partly cloudy. Cool.,38,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+4/15/2025,45.86,64.76,Rain showers. Cloudy. Cool.,76,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/16/2025,39.74,49.1,Cloudy. Cool.,3,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+4/17/2025,38.84,56.84,Mostly sunny. Refreshingly cool.,0,rain,,clear-day,01d.png,https://openweathermap.org/img/wn/01d.png
+4/18/2025,39.02,64.04,Sprinkles late. Afternoon clouds. Mild.,22,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/19/2025,52.34,79.88,Passing showers. Overcast. Warm.,44,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/20/2025,46.58,67.28,Mostly cloudy. Refreshingly cool.,95,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+4/21/2025,41.54,55.22,Cloudy. Refreshingly cool.,3,rain,,cloudy,02d.png,https://openweathermap.org/img/wn/02d.png
+4/22/2025,47.3,71.42,Light rain early. Breaks of sun late. Mild.,99,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/23/2025,44.6,68,Morning clouds. Mild.,0,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+4/24/2025,44.42,65.12,Broken clouds. Mild.,5,rain,,partly-cloudy-day,02d.png,https://openweathermap.org/img/wn/02d.png
+4/25/2025,52.7,66.56,Passing showers. Overcast. Mild.,38,rain,,rain,10d.png,https://openweathermap.org/img/wn/10d.png
+4/26/2025,53.78,61.34,Showery. Overcast. Cool.,99,rain,,rain,,
+4/27/2025,45.68,54.14,Broken clouds. Cool.,52,rain,,partly-cloudy-day,,
+4/28/2025,47.48,71.06,Sunny. Mild.,0,rain,,clear-day,,
+4/29/2025,51.08,74.48,Sprinkles late. Afternoon clouds. Mild.,40,rain,,rain,,
+4/30/2025,52.34,66.56,Mostly cloudy. Mild.,5,rain,,partly-cloudy-day,,
+5/1/2025,44.6,58.1,Cloudy. Refreshingly cool.,0,rain,,cloudy,,
+5/2/2025,50.54,74.84,Light rain. Cloudy. Mild.,84,rain,,rain,,
+5/3/2025,57.2,76.46,Isolated tstorms late. Mostly cloudy. Warm.,63,rain,,rain,,
+5/4/2025,51.98,69.26,Passing showers. Overcast. Mild.,66,rain,,rain,,
+5/5/2025,48.38,53.78,Rain. Overcast. Cool.,86,rain,,rain,,
+5/6/2025,49.82,61.88,Rain showers. Overcast. Cool.,98,rain,,rain,,
+5/7/2025,55.58,69.26,Showers late. Cloudy. Mild.,59,rain,,rain,,
+5/8/2025,52.52,68.36,Sprinkles late. Overcast. Mild.,61,rain,,rain,,
+5/9/2025,49.28,53.6,Heavy rain. Overcast. Cool.,95,rain,,rain,,
+5/10/2025,49.1,61.34,Rain showers. Decreasing cloudiness. Cool.,99,rain,,rain,,
+5/11/2025,51.98,64.22,Sunny. Mild.,0,rain,,clear-day,,
+5/12/2025,47.3,70.52,Increasing cloudiness. Mild.,0,rain,,partly-cloudy-day,,
+5/13/2025,48.02,62.06,Overcast. Cool.,0,rain,,cloudy,,
+5/14/2025,48.02,65.48,Showers late. Overcast. Mild.,24,rain,,rain,,
+5/15/2025,53.6,68.9,Passing showers. Overcast. Mild.,46,rain,,rain,,
+5/16/2025,58.64,75.02,Showers late. Cloudy. Mild.,45,rain,,rain,,
+5/17/2025,61.52,74.12,Passing showers. Overcast. Mild.,60,rain,,rain,,
+5/18/2025,55.94,68.54,Passing showers. Mostly cloudy. Mild.,23,rain,,rain,,
+5/19/2025,47.48,61.34,Sprinkles late. Overcast. Cool.,22,rain,,rain,,
+5/20/2025,48.56,56.66,Sprinkles late. Overcast. Cool.,24,rain,,rain,,
+5/21/2025,47.66,51.8,Sprinkles. Overcast. Cool.,47,rain,,rain,,
+5/22/2025,47.66,49.82,Tons of rain. Overcast. Cool.,99,rain,,rain,,
+5/23/2025,44.42,55.04,Heavy rain. Overcast. Cool.,99,rain,,rain,,
+5/24/2025,48.92,59.36,Sprinkles. Overcast. Cool.,67,rain,,rain,,
+5/25/2025,49.64,62.06,Sprinkles late. Overcast. Cool.,22,rain,,rain,,
+5/26/2025,49.64,63.68,Partly cloudy. Mild.,5,rain,,partly-cloudy-day,,
+5/27/2025,50.18,73.76,Broken clouds. Mild.,0,rain,,partly-cloudy-day,,
+5/28/2025,57.38,77.18,Overcast. Mild.,2,rain,,cloudy,,
+5/29/2025,56.12,61.34,Sprinkles. Overcast. Cool.,57,rain,,rain,,
+5/30/2025,58.64,75.74,Isolated tstorms. Overcast. Mild.,57,rain,,rain,,
+5/31/2025,52.88,65.3,Showery. Overcast. Mild.,99,rain,,rain,,
+6/1/2025,52.52,65.84,Broken clouds. Cool.,50,rain,,partly-cloudy-day,,
+6/2/2025,50.9,69.98,Afternoon clouds. Cool.,4,rain,,partly-cloudy-day,,
+6/3/2025,52.52,72.5,Scattered clouds. Cool.,20,rain,,clear-day,,
+6/4/2025,55.76,86.54,Increasing cloudiness. Pleasantly warm.,0,rain,,partly-cloudy-day,,
+6/5/2025,61.88,87.08,Showers late. Afternoon clouds. Warm.,39,rain,,rain,,
+6/6/2025,61.52,75.02,Passing showers. Overcast. Cool.,78,rain,,rain,,
+6/7/2025,61.16,69.26,Passing showers. Overcast. Cool.,99,rain,,rain,,
+6/8/2025,55.04,68,Overcast. Cool.,21,rain,,cloudy,,
+6/9/2025,55.22,60.8,Sprinkles late. Overcast. Cool.,49,rain,,rain,,
+6/10/2025,55.94,64.04,Sprinkles. Overcast. Cool.,74,rain,,rain,,
+6/11/2025,57.92,81.14,Mostly sunny. Mild.,22,rain,,clear-day,,
+6/12/2025,63.32,84.38,Afternoon clouds. Pleasantly warm.,0,rain,0,partly-cloudy-day,,
+6/13/2025,59,72.14,Breaks of sun late. Cool.,0,rain,0,partly-cloudy-day,,
+6/14/2025,55.58,60.44,Light rain. Overcast. Quite cool.,82,rain,0,rain,,
+6/15/2025,54.68,64.4,Overcast. Cool.,2,rain,0,cloudy,,
+6/16/2025,51.62,65.3,Sprinkles late. Overcast. Cool.,14,rain,0,rain,,
+6/17/2025,59.18,66.38,Passing showers. Overcast. Cool.,52,rain,0,rain,,
+6/18/2025,63.32,78.44,Isolated tstorms. Overcast. Mild.,52,rain,0,rain,,
+6/19/2025,64.22,90.14,Showers late. Broken clouds. Warm.,42,rain,0,rain,,
+6/20/2025,68.54,82.22,Showers early. Scattered clouds. Pleasantly warm.,21,rain,0,rain,,
+6/21/2025,63.32,83.84,Afternoon clouds. Warm.,0,rain,0,partly-cloudy-day,,
+6/22/2025,70.16,92.3,Isolated tstorms. Breaks of sun late. Warm.,56,rain,0,rain,,
+6/23/2025,68.18,84.74,Partly cloudy. Warm.,2,rain,0,partly-cloudy-day,,
+6/24/2025,76.28,99.32,Mostly sunny. Extremely hot.,2,rain,0,clear-day,,
+6/25/2025,71.42,89.06,Showers late. Afternoon clouds. Warm.,17,rain,0,rain,,
+6/26/2025,62.24,74.12,Passing showers. Overcast. Cool.,49,rain,0,rain,,
+6/27/2025,61.34,68.9,Overcast. Cool.,2,rain,0,cloudy,,
+6/28/2025,61.16,75.2,Isolated tstorms. Overcast. Cool.,65,rain,0,rain,,
+6/29/2025,66.92,85.28,Showers early. Morning clouds. Warm.,73,rain,0,rain,,
+6/30/2025,63.68,80.96,Partly cloudy. Mild.,2,rain,0,partly-cloudy-day,,
