@@ -1,6 +1,6 @@
 # Course network graphs and recommender
 
-Single-page app (`index.html`, open in a browser) built from a course survey: 35 students each listed three favorite courses.
+Single-page app (`index.html`, open in a browser) built from a course survey: 36 students each listed three favorite courses.
 
 - **Students tab**: students linked by shared favorite courses.
 - **Courses tab**: courses linked when the same student picked both.
