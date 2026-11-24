@@ -29,6 +29,8 @@ svg{width:100%;height:100%;display:block;touch-action:none}
 #info{line-height:1.5;min-height:6em;overflow-wrap:anywhere}
 .note{color:var(--mute);font-size:.8rem;line-height:1.45}
 label.chk{display:flex;gap:8px;align-items:center}
+.tt{position:absolute;z-index:6;max-width:260px;padding:8px 10px;border-radius:6px;background:var(--fg);color:var(--bg);font-size:.8rem;line-height:1.45;pointer-events:none;overflow-wrap:anywhere}
+.tt b{font-weight:600}
 .rsearch{position:relative;max-width:680px}
 .rsearch label{display:block;font:700 .72rem var(--display);letter-spacing:.08em;text-transform:uppercase;color:var(--mute);margin-bottom:6px}
 #rq{width:100%;box-sizing:border-box;font:400 1rem var(--body);padding:12px 14px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--fg)}
@@ -54,9 +56,9 @@ text{font:500 11px var(--body);fill:var(--fg);paint-order:stroke;stroke:var(--pa
 </style>
 <div class="wrap">
 <header><h1>Course Network Graphs</h1>
-<p class="sub">Built from 36 survey responses, each listing up to three favorite courses. Explore the student and course networks, or get course recommendations for a student.</p></header>
+<p class="sub">Built from 36 survey responses, each listing up to three favorite courses. Hover a link to see what its two ends share. Explore the student and course networks, or get course recommendations for a student.</p></header>
 <div class="tabs" role="group" aria-label="Graph"><button id="bS" aria-pressed="true">Students</button><button id="bC" aria-pressed="false">Courses</button><button id="bR" aria-pressed="false">Recommender</button></div>
-<div class="grid" id="graphView"><div class="panel" id="stage"><svg id="svg" role="img" aria-label="Network graph"></svg></div>
+<div class="grid" id="graphView"><div class="panel" id="stage"><svg id="svg" role="img" aria-label="Network graph"></svg><div id="tt" class="tt" hidden></div></div>
 <aside class="panel side"><div><h2 id="what"></h2><p class="note" id="desc" style="margin:6px 0 0"></p></div>
 <div><h2>Selection</h2><div id="info">Hover a node.</div></div>
 <div id="legwrap"><h2>Degree program</h2><div class="leg" id="leg"></div></div>
@@ -92,7 +94,7 @@ function draw(){
  }else{
   const sel=new Set();D.courses.forEach(c=>sel.add(c.id));
   nodes=D.courses.map(c=>({...c}));
-  links=D.cedges.map(e=>({source:e.s,target:e.t,w:e.w}));
+  links=D.cedges.map(e=>({source:e.s,target:e.t,w:e.w,who:D.students.filter(s=>s.courses.includes(e.s)&&s.courses.includes(e.t)).map(s=>s.id)}));
   const prog={};D.students.forEach(s=>s.courses.forEach(c=>{(prog[c]=prog[c]||{});prog[c][s.prog]=(prog[c][s.prog]||0)+1}));
   nodes.forEach(n=>{const p=prog[n.id];n.top=Object.keys(p).sort((a,b)=>p[b]-p[a])[0];n.mix=Object.entries(p).map(([k,v])=>k+' '+v).join(', ')});
   rad=n=>4+Math.sqrt(n.n)*4;col=n=>css(pc[n.top]||'--c4');lab=n=>n.id;wid=l=>1+(l.w-1)*1.5;
@@ -101,6 +103,15 @@ function draw(){
   legwrap.hidden=false;isoL.hidden=true;
  }
  const L=g.append('g').attr('stroke',css('--edge')).attr('stroke-opacity',.55).selectAll('line').data(links).join('line').attr('stroke-width',wid);
+ const H=g.append('g').selectAll('line').data(links).join('line').attr('stroke','transparent').attr('stroke-width',14).style('cursor','pointer');
+ const hideTip=()=>{tt.hidden=true;L.attr('stroke-opacity',.55)};
+ const linkTip=(e,l)=>{const a=l.source.id,b=l.target.id;
+  tt.innerHTML=mode=='S'?`<b>${a} &amp; ${b}</b><br>Shared courses: ${l.shared.join(', ')}`:`<b>${a} + ${b}</b><br>Listed by ${l.who.length} student${l.who.length>1?'s':''}: ${l.who.join(', ')}`;
+  tt.hidden=false;const box=document.getElementById('stage'),p=d3.pointer(e,box);
+  tt.style.left=Math.min(Math.max(8,p[0]+14),box.clientWidth-tt.offsetWidth-8)+'px';
+  tt.style.top=Math.min(Math.max(8,p[1]+14),box.clientHeight-tt.offsetHeight-8)+'px';
+  L.attr('stroke-opacity',d=>d===l?1:.12)};
+ H.on('mouseover mousemove click',linkTip).on('mouseout',hideTip);
  const N=g.append('g').selectAll('circle').data(nodes).join('circle').attr('r',rad).attr('fill',col).attr('stroke',css('--panel')).attr('stroke-width',1.5).style('cursor','pointer');
  const T=g.append('g').selectAll('text').data(nodes).join('text').text(lab).attr('dx',n=>rad(n)+3).attr('dy',4);
  const nb=new Map(nodes.map(n=>[n.id,new Set([n.id])]));
@@ -113,7 +124,7 @@ function draw(){
  sim=d3.forceSimulation(nodes).force('link',d3.forceLink(links).id(d=>d.id).distance(mode=='S'?130:70).strength(.5))
   .force('charge',d3.forceManyBody().strength(mode=='S'?-320:-160)).force('center',d3.forceCenter(W/2,H/2))
   .force('x',d3.forceX(W/2).strength(mode=='S'?.02:.06)).force('y',d3.forceY(H/2).strength(mode=='S'?.02:.06)).force('col',d3.forceCollide(n=>rad(n)+(mode=='S'?14:3)))
-  .on('tick',()=>{L.attr('x1',d=>d.source.x).attr('y1',d=>d.source.y).attr('x2',d=>d.target.x).attr('y2',d=>d.target.y);
+  .on('tick',()=>{H.attr('x1',d=>d.source.x).attr('y1',d=>d.source.y).attr('x2',d=>d.target.x).attr('y2',d=>d.target.y);L.attr('x1',d=>d.source.x).attr('y1',d=>d.source.y).attr('x2',d=>d.target.x).attr('y2',d=>d.target.y);
    N.attr('cx',d=>d.x).attr('cy',d=>d.y);T.attr('x',d=>d.x).attr('y',d=>d.y)});
 }
 function set(m){bS.setAttribute('aria-pressed',m=='S');bC.setAttribute('aria-pressed',m=='C');bR.setAttribute('aria-pressed',m=='R');
