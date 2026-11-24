@@ -103,7 +103,7 @@ function draw(){
   legwrap.hidden=false;isoL.hidden=true;
  }
  const L=g.append('g').attr('stroke',css('--edge')).attr('stroke-opacity',.55).selectAll('line').data(links).join('line').attr('stroke-width',wid);
- const H=g.append('g').selectAll('line').data(links).join('line').attr('stroke','transparent').attr('stroke-width',14).style('cursor','pointer');
+ const HL=g.append('g').selectAll('line').data(links).join('line').attr('stroke','transparent').attr('stroke-width',14).style('cursor','pointer');
  const hideTip=()=>{tt.hidden=true;L.attr('stroke-opacity',.55)};
  const linkTip=(e,l)=>{const a=l.source.id,b=l.target.id;
   tt.innerHTML=mode=='S'?`<b>${a} &amp; ${b}</b><br>Shared courses: ${l.shared.join(', ')}`:`<b>${a} + ${b}</b><br>Listed by ${l.who.length} student${l.who.length>1?'s':''}: ${l.who.join(', ')}`;
@@ -111,7 +111,7 @@ function draw(){
   tt.style.left=Math.min(Math.max(8,p[0]+14),box.clientWidth-tt.offsetWidth-8)+'px';
   tt.style.top=Math.min(Math.max(8,p[1]+14),box.clientHeight-tt.offsetHeight-8)+'px';
   L.attr('stroke-opacity',d=>d===l?1:.12)};
- H.on('mouseover mousemove click',linkTip).on('mouseout',hideTip);
+ HL.on('mouseover mousemove click',linkTip).on('mouseout',hideTip);
  const N=g.append('g').selectAll('circle').data(nodes).join('circle').attr('r',rad).attr('fill',col).attr('stroke',css('--panel')).attr('stroke-width',1.5).style('cursor','pointer');
  const T=g.append('g').selectAll('text').data(nodes).join('text').text(lab).attr('dx',n=>rad(n)+3).attr('dy',4);
  const nb=new Map(nodes.map(n=>[n.id,new Set([n.id])]));
@@ -124,7 +124,7 @@ function draw(){
  sim=d3.forceSimulation(nodes).force('link',d3.forceLink(links).id(d=>d.id).distance(mode=='S'?130:70).strength(.5))
   .force('charge',d3.forceManyBody().strength(mode=='S'?-320:-160)).force('center',d3.forceCenter(W/2,H/2))
   .force('x',d3.forceX(W/2).strength(mode=='S'?.02:.06)).force('y',d3.forceY(H/2).strength(mode=='S'?.02:.06)).force('col',d3.forceCollide(n=>rad(n)+(mode=='S'?14:3)))
-  .on('tick',()=>{H.attr('x1',d=>d.source.x).attr('y1',d=>d.source.y).attr('x2',d=>d.target.x).attr('y2',d=>d.target.y);L.attr('x1',d=>d.source.x).attr('y1',d=>d.source.y).attr('x2',d=>d.target.x).attr('y2',d=>d.target.y);
+  .on('tick',()=>{HL.attr('x1',d=>d.source.x).attr('y1',d=>d.source.y).attr('x2',d=>d.target.x).attr('y2',d=>d.target.y);L.attr('x1',d=>d.source.x).attr('y1',d=>d.source.y).attr('x2',d=>d.target.x).attr('y2',d=>d.target.y);
    N.attr('cx',d=>d.x).attr('cy',d=>d.y);T.attr('x',d=>d.x).attr('y',d=>d.y)});
 }
 function set(m){bS.setAttribute('aria-pressed',m=='S');bC.setAttribute('aria-pressed',m=='C');bR.setAttribute('aria-pressed',m=='R');
