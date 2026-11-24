@@ -121,9 +121,9 @@ function draw(){
  const clear=()=>{N.attr('opacity',1);T.attr('opacity',1);L.attr('stroke-opacity',.55)};
  N.on('mouseover click',(e,n)=>show(n)).on('mouseout',clear);
  N.call(d3.drag().on('start',(e,d)=>{if(!e.active)sim.alphaTarget(.3).restart();d.fx=d.x;d.fy=d.y}).on('drag',(e,d)=>{d.fx=e.x;d.fy=e.y}).on('end',(e,d)=>{if(!e.active)sim.alphaTarget(0);d.fx=d.fy=null}));
- sim=d3.forceSimulation(nodes).force('link',d3.forceLink(links).id(d=>d.id).distance(mode=='S'?130:70).strength(.5))
-  .force('charge',d3.forceManyBody().strength(mode=='S'?-320:-160)).force('center',d3.forceCenter(W/2,H/2))
-  .force('x',d3.forceX(W/2).strength(mode=='S'?.02:.06)).force('y',d3.forceY(H/2).strength(mode=='S'?.02:.06)).force('col',d3.forceCollide(n=>rad(n)+(mode=='S'?14:3)))
+ sim=d3.forceSimulation(nodes).force('link',d3.forceLink(links).id(d=>d.id).distance(mode=='S'?85:70).strength(.5))
+  .force('charge',d3.forceManyBody().strength(mode=='S'?-150:-160)).force('center',d3.forceCenter(W/2,H/2))
+  .force('x',d3.forceX(W/2).strength(mode=='S'?.04:.06)).force('y',d3.forceY(H/2).strength(mode=='S'?.04:.06)).force('col',d3.forceCollide(n=>rad(n)+(mode=='S'?8:3)))
   .on('tick',()=>{HL.attr('x1',d=>d.source.x).attr('y1',d=>d.source.y).attr('x2',d=>d.target.x).attr('y2',d=>d.target.y);L.attr('x1',d=>d.source.x).attr('y1',d=>d.source.y).attr('x2',d=>d.target.x).attr('y2',d=>d.target.y);
    N.attr('cx',d=>d.x).attr('cy',d=>d.y);T.attr('x',d=>d.x).attr('y',d=>d.y)});
 }
